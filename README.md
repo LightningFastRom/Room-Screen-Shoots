@@ -1,1 +1,2 @@
-Room Screen Shoots
+Room Screenshoots
+This repo contain secreenshot of loom of my rom so far my rom gapps not included in my rom 😜😜coufg coufg exsept to the gapps make file not the gapps local mamfast... must add open gapps local mamfast to rom whan building of rom wont boot
